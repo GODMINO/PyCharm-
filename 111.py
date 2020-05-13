@@ -8,3 +8,4 @@ while xStr != " ":
     xStr=input()
 else:
     print(sum/count)
+print("nihao")
